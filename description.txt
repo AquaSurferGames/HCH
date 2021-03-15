@@ -1,1 +1,8 @@
-This was made so that people would stop screming at Kirn to stop using nebula hamaxe in his hardcore runs.
+Update 1.2 Changelog:
+-Renamed the mod to Speedy Tools
+-Renamed Hardcore Hamaxe to Speedy Hamaxe
+-Added Speedy Pickaxe
+-Speedy Hamaxe no longer breaks the economy with the previously high sell price
+-Gave Speedy Hamaxe "useTurn" (You can now turn around with the tool while swinging it)
+
+All tools are made with one gel and one wood with no required crafting station. Enjoy saving some time!
