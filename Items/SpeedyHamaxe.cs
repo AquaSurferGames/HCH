@@ -39,6 +39,7 @@ namespace HCH.Items
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.Gel, 1);
 			recipe.AddIngredient(ItemID.Wood, 1);
+			recipe.anyWood = true;
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}

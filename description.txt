@@ -1,8 +1,4 @@
-Update 1.2 Changelog:
--Renamed the mod to Speedy Tools
--Renamed Hardcore Hamaxe to Speedy Hamaxe
--Added Speedy Pickaxe
--Speedy Hamaxe no longer breaks the economy with the previously high sell price
--Gave Speedy Hamaxe "useTurn" (You can now turn around with the tool while swinging it)
+Update 1.2.0.2 Changelog:
+-Tools can now be crafted with any type of wood, not just the basic type.
 
 All tools are made with one gel and one wood with no required crafting station. Enjoy saving some time!
